@@ -1,6 +1,6 @@
-### Site Generator
-
-## Local setup
+## Site Generator
+Downloads and saves website assets and metadata locally.
+### Local setup
 
 Build image locally
 `docker build --no-cache -t fetch_module .`
